@@ -1,0 +1,2 @@
+Salatalık,Sebze,15.0,10
+Pirinç,Bakliyat,120.0,50
